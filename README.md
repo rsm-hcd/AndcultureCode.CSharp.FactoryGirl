@@ -1,4 +1,8 @@
-# AndcultureCode.CSharp.FactoryGirl [![Build Status](https://travis-ci.org/AndcultureCode/AndcultureCode.CSharp.FactoryGirl.svg?branch=master)](https://travis-ci.org/AndcultureCode/AndcultureCode.CSharp.FactoryGirl) [![codecov](https://codecov.io/gh/AndcultureCode/AndcultureCode.CSharp.FactoryGirl/branch/master/graph/badge.svg)](https://codecov.io/gh/AndcultureCode/AndcultureCode.CSharp.FactoryGirl)
+# AndcultureCode.CSharp.FactoryGirl
+
+![build status](https://github.com/AndcultureCode/AndcultureCode.CSharp.FactoryGirl/actions/workflows/build.yaml/badge.svg)
+[![codecov](https://codecov.io/gh/AndcultureCode/AndcultureCode.CSharp.FactoryGirl/branch/main/graph/badge.svg)](https://codecov.io/gh/AndcultureCode/AndcultureCode.CSharp.FactoryGirl)
+
 Port of FactoryGirl for .NET Core C#
 
 ## Getting Started
